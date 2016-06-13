@@ -53,3 +53,9 @@ img {
     width: 400px;
   }
 }
+
+#sent-score {
+  font-size: 30px;
+  padding-top: 10px;
+}
+  
